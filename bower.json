@@ -1,0 +1,17 @@
+{
+    "name": "habibi-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Magnus Gaarde"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/habibi-bower.git"
+    },
+    "description": "Habibi font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
